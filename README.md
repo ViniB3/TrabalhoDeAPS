@@ -2,23 +2,7 @@
 
 # 🍤 Sistema de Gestão - Petiscaria Nishida
 
-Este projeto é um sistema web desenvolvido em **PHP Orientado a Objetos** para a gestão de pedidos, mesas e caixa da Petiscaria Nishida. O sistema foi criado para atender aos requisitos da disciplina de Análise e Projeto de Software (UTFPR), implementando Diagramas de Sequência, Casos de Uso e Contratos de Operação.
-
-## 📋 Funcionalidades Implementadas
-
-* **Frente de Caixa (PDV):** Abertura e Fechamento de Caixa com controle de troco e eventos.
-* **Gestão de Mesas:** Abertura, Pedidos, Envio para Cozinha e Fechamento de Conta.
-* **Controle de Pedidos:**
-    * Lançamento de itens (Rascunho).
-    * **Enviar para Cozinha** (Muda status do item).
-    * Cancelamento de itens (Com senha de Gerente).
-* **Administração (Backoffice):**
-    * CRUD de Produtos (Estoque).
-    * CRUD de Clientes.
-    * CRUD de Funcionários.
-* **Persistência:** Simulação de Banco de Dados via `$_SESSION` (os dados resetam ao fechar o navegador/sessão).
-
----
+Este projeto é um sistema web desenvolvido para a gestão de pedidos, mesas e caixa da Petiscaria Nishida.
 
 ## 🚀 Como Executar o Projeto
 
@@ -115,3 +99,4 @@ Projeto desenvolvido para a disciplina de Análise e Projeto de Software.
 * Jane Kelli
 * Josué Modesto
 * Vinicius Borges
+
