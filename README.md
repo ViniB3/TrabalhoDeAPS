@@ -18,8 +18,8 @@ Se você tem o PHP instalado no Windows (ou usa VS Code), siga estes passos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd SEU_REPOSITORIO
+    git clone https://github.com/ViniB3/TrabalhoDeAPS.git
+    cd 
     ```
 
 2.  **Inicie o servidor:**
@@ -99,4 +99,5 @@ Projeto desenvolvido para a disciplina de Análise e Projeto de Software.
 * Jane Kelli
 * Josué Modesto
 * Vinicius Borges
+
 
